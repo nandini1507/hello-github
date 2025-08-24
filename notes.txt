@@ -4,3 +4,4 @@ GitHub Practice Notes
 - Edited README.md
 - Added notes.txt
 Next: Learn about branches and collaboration
+Today I learned how to add and edit files on GitHub!
