@@ -1,0 +1,6 @@
+GitHub Practice Notes
+---------------------
+- Created my first repo
+- Edited README.md
+- Added notes.txt
+Next: Learn about branches and collaboration
